@@ -1,6 +1,6 @@
 class Rocket { // defining af class Rocket, that will hold methods and variables for the behaviour and looks of the rocket 
   
-  // initializing all the variables used to create the rocket, from colour, position, direction to the explosion
+  // declaring all the variables used to create the rocket, from colour, position, direction to the explosion
   color colour; 
   float x;
   float y;
